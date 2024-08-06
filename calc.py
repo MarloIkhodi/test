@@ -38,6 +38,7 @@ S para sim, N para não
         print('Até mais!')
     else:
         repetir()
+# atualização
 
 
 calculadora()
