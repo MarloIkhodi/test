@@ -39,5 +39,7 @@ S para sim, N para não
     else:
         repetir()
 
+# testing
+
 
 calculadora()
