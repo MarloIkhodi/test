@@ -19,6 +19,7 @@ def calculadora():
     elif D == '*':
         print('\n{} * {} ='.format(C, E))
         print(C*E)
+# necessario adicionar metodo para divisão por 0 ser igual a nulo
     elif D == '/':
         print('\n{} / {} ='.format(C, E))
         print(C/E)
@@ -38,8 +39,6 @@ S para sim, N para não
         print('Até mais!')
     else:
         repetir()
-
-# testing
 
 
 calculadora()
